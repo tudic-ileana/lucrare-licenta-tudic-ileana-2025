@@ -1,0 +1,98 @@
+Sex,Vârstă,Localitate,Foloseste aplicația,Scor interacțiune personal,Scor claritate comisioane,Scor rapiditate soluționare,Scor aplicație mobilă,Scor platformă online,Scor general satisfacție,Recomandă banca
+Masculin,35–44,București,Da,4,3,4,3,5,3.8,Da
+Masculin,45–54,Cluj-Napoca,Da,4,4,3,4,5,4.0,Da
+Feminin,45–54,Timișoara,Da,5,3,4,4,4,4.0,Da
+Feminin,25–34,Cluj-Napoca,Da,5,4,3,5,5,4.4,Da
+Feminin,35–44,Timișoara,Da,4,4,3,5,4,4.0,Da
+Feminin,35–44,Baia Mare,Da,5,3,2,5,4,3.8,Da
+Feminin,<25,Cluj-Napoca,Da,5,3,4,4,3,3.8,Da
+Masculin,35–44,Baia Mare,Da,5,3,2,4,5,3.8,Da
+Feminin,45–54,Cluj-Napoca,Nu,4,3,3,1,3,2.8,Nu
+Feminin,35–44,Baia Mare,Da,4,4,3,5,5,4.2,Da
+Feminin,35–44,Cluj-Napoca,Da,3,3,3,5,5,3.8,Da
+Feminin,25–34,Cluj-Napoca,Da,3,3,4,4,3,3.4,Nu
+Masculin,<25,Baia Mare,Da,3,2,4,3,4,3.2,Nu
+Masculin,35–44,Sighetu Marmației,Nu,5,2,3,2,2,2.8,Nu
+Masculin,25–34,Cluj-Napoca,Nu,4,3,3,2,3,3.0,Nu
+Masculin,45–54,București,Da,3,4,3,4,5,3.8,Da
+Masculin,55+,Timișoara,Nu,3,3,3,1,2,2.4,Nu
+Masculin,25–34,Remeți,Da,5,3,3,5,4,4.0,Da
+Feminin,25–34,Timișoara,Da,5,2,2,5,4,3.6,Da
+Masculin,45–54,Baia Mare,Nu,5,2,2,1,2,2.4,Nu
+Masculin,35–44,Crăciunești,Da,4,3,3,3,5,3.6,Da
+Masculin,<25,Cluj-Napoca,Da,4,3,4,4,3,3.6,Da
+Masculin,<25,Sighetu Marmației,Da,4,3,3,4,5,3.8,Da
+Feminin,<25,București,Da,4,3,3,5,5,4.0,Da
+Feminin,45–54,Cluj-Napoca,Da,3,3,4,3,5,3.6,Da
+Feminin,45–54,Cluj-Napoca,Da,4,3,4,5,5,4.2,Da
+Masculin,<25,București,Da,4,3,3,5,5,4.0,Da
+Feminin,45–54,Sighetu Marmației,Da,5,3,2,4,4,3.6,Da
+Feminin,55+,București,Da,5,2,2,4,4,3.4,Nu
+Feminin,35–44,Timișoara,Da,4,4,2,5,4,3.8,Da
+Feminin,25–34,Timișoara,Da,4,2,3,4,5,3.6,Da
+Feminin,25–34,Baia Mare,Da,5,4,2,5,3,3.8,Da
+Feminin,<25,Timișoara,Da,4,4,3,4,3,3.6,Da
+Feminin,<25,Cluj-Napoca,Da,4,2,3,4,5,3.6,Da
+Feminin,55+,Cluj-Napoca,Da,3,3,3,5,4,3.6,Da
+Feminin,35–44,București,Da,4,4,4,4,3,3.8,Da
+Feminin,25–34,Târgu Mureș,Nu,4,4,4,3,1,3.2,Nu
+Feminin,45–54,Baia Mare,Da,4,3,3,4,4,3.6,Da
+Masculin,25–34,București,Nu,4,3,3,1,2,2.6,Nu
+Masculin,45–54,Timișoara,Da,4,3,3,4,5,3.8,Da
+Feminin,45–54,Baia Mare,Da,3,4,3,4,5,3.8,Da
+Feminin,<25,București,Da,4,3,3,5,5,4.0,Da
+Feminin,25–34,Târgu Mureș,Da,3,3,2,5,4,3.4,Nu
+Feminin,25–34,Târgu Mureș,Da,4,2,3,3,3,3.0,Nu
+Feminin,<25,București,Da,3,3,4,4,3,3.4,Nu
+Masculin,25–34,Timișoara,Da,3,4,2,4,4,3.4,Nu
+Masculin,25–34,Timișoara,Nu,4,2,3,3,3,3.0,Nu
+Feminin,25–34,Sighetu Marmației,Da,4,4,3,3,4,3.6,Da
+Feminin,<25,Târgu Mureș,Da,4,3,4,3,4,3.6,Da
+Feminin,45–54,București,Da,4,4,3,3,4,3.6,Da
+Feminin,25–34,Crăciunești,Nu,5,4,3,2,2,3.2,Nu
+Feminin,25–34,Cluj-Napoca,Da,5,3,3,5,5,4.2,Da
+Feminin,25–34,Baia Mare,Da,5,4,3,5,5,4.4,Da
+Masculin,45–54,Târgu Mureș,Da,5,3,3,5,5,4.2,Da
+Feminin,25–34,Cluj-Napoca,Da,4,2,4,5,5,4.0,Da
+Feminin,45–54,Baia Mare,Da,4,2,4,5,3,3.6,Da
+Masculin,25–34,Cluj-Napoca,Da,5,3,4,4,5,4.2,Da
+Masculin,25–34,Timișoara,Da,3,3,2,3,4,3.0,Nu
+Feminin,25–34,Târgu Mureș,Nu,5,3,2,3,2,3.0,Nu
+Masculin,<25,Timișoara,Da,5,2,4,5,4,4.0,Da
+Feminin,25–34,Sighetu Marmației,Da,3,3,4,3,5,3.6,Da
+Masculin,<25,București,Da,5,3,3,5,3,3.8,Da
+Masculin,<25,Târgu Mureș,Nu,5,4,3,2,1,3.0,Nu
+Masculin,35–44,Timișoara,Da,5,2,2,4,4,3.4,Nu
+Masculin,<25,Timișoara,Nu,5,4,3,2,1,3.0,Nu
+Feminin,25–34,Baia Mare,Da,5,4,4,3,5,4.2,Da
+Feminin,35–44,Sighetu Marmației,Da,3,2,4,3,4,3.2,Nu
+Feminin,25–34,Remeți,Da,4,4,4,4,4,4.0,Da
+Masculin,25–34,Baia Mare,Nu,4,4,4,2,2,3.2,Nu
+Masculin,25–34,Timișoara,Da,5,4,3,5,5,4.4,Da
+Masculin,25–34,Cluj-Napoca,Da,5,3,2,3,4,3.4,Nu
+Feminin,35–44,Târgu Mureș,Da,5,3,2,5,4,3.8,Da
+Feminin,<25,Timișoara,Da,4,3,3,4,5,3.8,Da
+Masculin,25–34,Crăciunești,Da,5,4,3,4,5,4.2,Da
+Masculin,<25,Sighetu Marmației,Da,5,3,4,5,5,4.4,Da
+Masculin,25–34,București,Da,5,3,4,5,3,4.0,Da
+Masculin,35–44,Baia Mare,Da,4,3,3,4,4,3.6,Da
+Masculin,25–34,Timișoara,Da,3,3,4,3,5,3.6,Da
+Masculin,25–34,Cluj-Napoca,Da,3,2,3,4,5,3.4,Nu
+Feminin,35–44,Baia Mare,Da,4,2,3,4,5,3.6,Da
+Masculin,45–54,Cluj-Napoca,Da,3,4,2,5,3,3.4,Nu
+Feminin,25–34,Cluj-Napoca,Da,5,3,4,3,4,3.8,Da
+Feminin,35–44,Cluj-Napoca,Da,4,4,3,4,3,3.6,Da
+Feminin,25–34,Târgu Mureș,Da,5,3,4,5,3,4.0,Da
+Feminin,25–34,Cluj-Napoca,Da,5,3,3,3,5,3.8,Da
+Feminin,35–44,București,Da,5,3,3,4,4,3.8,Da
+Masculin,25–34,Baia Mare,Da,4,2,2,5,5,3.6,Da
+Masculin,25–34,Sighetu Marmației,Da,3,3,3,5,4,3.6,Da
+Feminin,25–34,Cluj-Napoca,Da,5,4,3,3,5,4.0,Da
+Masculin,45–54,Baia Mare,Da,5,4,3,3,4,3.8,Da
+Masculin,35–44,Timișoara,Da,4,4,2,3,4,3.4,Nu
+Masculin,45–54,Vișeu de Sus,Nu,4,3,2,3,3,3.0,Nu
+Feminin,45–54,Sighetu Marmației,Da,5,4,3,4,5,4.2,Da
+Feminin,25–34,Sighetu Marmației,Da,3,4,3,5,3,3.6,Da
+Feminin,25–34,București,Da,5,3,3,5,4,4.0,Da
+Feminin,45–54,Baia Mare,Da,4,4,3,4,5,4.0,Da
+Feminin,45–54,București,Da,3,2,3,4,4,3.2,Nu
